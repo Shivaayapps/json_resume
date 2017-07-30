@@ -2,12 +2,12 @@
     "settings": {
         "icons" : true
     },
-    "firstname": "Prateek",
-    "familyname": "Agarwal",
+    "firstname": "Test",
+    "familyname": "Test",
     "linkedin_id": "prat0318",
     "github_id": "prat0318",
     "bio_data": {
-        "email": "prat0318 @ cs.utexas.edu",
+        "email": "test @ cs.utexas.edu",
         "phone": "+1 (512) 698-3649",
         "website": "http://prat0318.github.io",
         "stars": ["Ruby","Python","Git","Cartooning"],
